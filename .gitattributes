@@ -12,6 +12,7 @@
 # Denote all files that are truly binary and should not be modified.
 *.png binary
 *.jpg binary
+*.blend
 *.glb filter=lfs diff=lfs merge=lfs -text
 *.material filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
