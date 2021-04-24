@@ -1,0 +1,17 @@
+# Import cache
+.import/
+.vs/
+.mono/
+.godot/
+# Binaries
+bin/
+build/
+level/
+lib/
+git_api.gdnlib
+git_api.gdns
+.readthedocs.yml
+*.ogv
+utils/client/MainMenu/videoplayback.ogv
+utils/client/MainMenu/videoplayback-_1_.ogv
+*.pdf
